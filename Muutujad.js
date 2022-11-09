@@ -23,4 +23,4 @@ console.log(person)
 console.log(person.firstname)
 console.log(person.surname)
 person.department = 'IKT'
-console.log(person
+console.log(person)
